@@ -1,4 +1,4 @@
-## IdentityPython & FIXME
+## IdentityPython & SATOSA
 
 <small>Ivan Kanakarakis &mdash; SUNET</small>
 
